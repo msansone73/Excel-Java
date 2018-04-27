@@ -1,0 +1,15 @@
+start_on;is_started;started_on;completed_on;project_id;parent_id;name;description;id;is_completed;due_on;url
+ ;true; ;1471443952;26; ;August Release (eFUT);Login and RegistrationHomepageCase ManagementUsage Details;155;true;1468540800;https://celfocus.testrail.net/index.php?/milestones/view/155
+ ;true; ;1477392135;26; ;Drop 3A (SIT1);Deployment (STP1): 10/10Execution Start: 17/10;171;true;1476057600;https://celfocus.testrail.net/index.php?/milestones/view/171
+ ;true; ;1477392046;26; ;eFUT - Sanity; ;204;true;1471564800;https://celfocus.testrail.net/index.php?/milestones/view/204
+ ;true; ;1477392150;26; ;Drop 3B (SIT1);Deployment (STP1): 28/11Execution Start: 05/12;230;true;1480291200;https://celfocus.testrail.net/index.php?/milestones/view/230
+ ;true;1470614400; ;26; ;Drop 4A; ;273;false;1484524800;https://celfocus.testrail.net/index.php?/milestones/view/273
+ ;true;1490094720; ;26; ;DROP 4B; ;406;false;1492819200;https://celfocus.testrail.net/index.php?/milestones/view/406
+ ;true;1490095082; ;26; ;DROP 4C;DROP 4C.1Datas de fim de DEV:11/Jun- CR20431/Jan- WA#1227/Jun- CR20202/Fev - BS#1 | WA#31Testing in Progress= FTCR020; WA#02; WA#11;  WA#31/ CR081 / CR083 / CR164 / FTCR016;  WA#36/ CR208 / CR127/ FTCR04DROP4C.2Datas Fim de Dev28/Jun- WA#1719/Fev- CR11005/Fev- CR05408/Jun- CR03620/Jun- CR126B14/Jun- CR206CR004/CR207/FTCR026/FTCR023 - Credit Vetting (HLD 2.0.1)DROP4C.3 - OTHERS13/Jun- WA#2715/May-CR50A/ CR50BCR150?????;407;false;1498780800;https://celfocus.testrail.net/index.php?/milestones/view/407
+ ;true;1508231498; ;26; ;Automation Regression tests; ;560;false; ;https://celfocus.testrail.net/index.php?/milestones/view/560
+ ;true;1511287435; ;26; ;Sanity Tests; ;582;false; ;https://celfocus.testrail.net/index.php?/milestones/view/582
+ ;true;1511780570; ;26; ;Enhancements and Change Requests;Enhancements;588;false; ;https://celfocus.testrail.net/index.php?/milestones/view/588
+ ;true;1512387857; ;26; ;DROP Junho; ;606;false; ;https://celfocus.testrail.net/index.php?/milestones/view/606
+ ;true;1514906896; ;26; ;Drop PayG;ETA for deploy to SIT3 DROP1- 15/01WA#01WA#06WA#02 Homepage PAYG – 1st phaseWA#14 Personal Details PAYG - 1st phaseWA#29;631;false; ;https://celfocus.testrail.net/index.php?/milestones/view/631
+ ;true;1517246105; ;26; ;Regression Testing; ;657;false; ;https://celfocus.testrail.net/index.php?/milestones/view/657
+ ;true;1521111597; ;26; ;DROP 4B - April Release;DROP 4B.2 - April ReleaseCR54/CR110/GDPR/F-Secure/ FTCR-023 (test data creation)- Tested in Azure6Others  main environment Azure3 or SIT1;719;false; ;https://celfocus.testrail.net/index.php?/milestones/view/719

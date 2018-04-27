@@ -30,6 +30,10 @@ public class Milestone {
         this.url = url;
     }
 
+    public Milestone() {
+
+    }
+
     public String getStart_on() {
         return start_on;
     }
